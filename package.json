@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "http2": "^3.3.7",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "spdy-transport": "^3.0.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
